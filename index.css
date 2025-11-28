@@ -4,3 +4,19 @@ ul {
 .menu-principal {
   color: aqua;
 }
+.menu-principal {
+  list-style: none;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+}
+
+header {
+  background-color: aqua;
+  border-bottom: 3px solid #0078ae;
+
+  padding: 15px 0;
+}
