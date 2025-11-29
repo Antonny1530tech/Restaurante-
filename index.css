@@ -24,15 +24,24 @@ header .logo {
 .header-group-1 {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 20px;
 }
 
 .logo {
   color: #ed2939;
-  font-size: 7.5em;
+  font-size: 1.2em;
 }
 
 .btn-localizacao {
   background-color: #2b99c7;
   padding: 15px 30px;
+}
+.link-menu {
+  display: flex;
+  gap: 20px;
+}
+
+.header-group-3 {
+  display: flex;
+  gap: 20px;
 }
