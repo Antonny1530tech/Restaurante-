@@ -45,3 +45,26 @@ header .logo {
   display: flex;
   gap: 20px;
 }
+.link-minha-pizza {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 1.1em;
+}
+
+.btn-localizacao {
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.header-group-3 a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.2;
+  font-size: 0.8em;
+}
+.login,
+.carrinho2 {
+  text-transform: none;
+}
